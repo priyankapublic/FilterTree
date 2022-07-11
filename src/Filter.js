@@ -67,11 +67,11 @@ class Filter {
     this.filterOptions.availability = [
       {
         label: "Available",
-        value: "1"
+        value: "0"
       },
       {
         label: "Not Available",
-        value: "0"
+        value: "1"
       }
     ];
   }
